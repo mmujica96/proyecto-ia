@@ -35,6 +35,9 @@ pip install tensorflow pillow opencv-python numpy matplotlib
 
 4. Predicción: El modelo realiza una predicción sobre la imagen procesada. La predicción se muestra en la interfaz junto con su valor exacto (entre 0 y 1) y un gráfico de medición tipo gauge.
 
+## Enlace a documento colaborativo de creación del modelo
+https://colab.research.google.com/drive/1l-ALhGJ2NVhX1bFYm9nwzYpdZsOlU0Gi?usp=sharing 
+
 ## Uso de la Aplicación
 1. Ejecuta el archivo interfaz.py:
 
